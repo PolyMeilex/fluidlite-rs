@@ -1,5 +1,5 @@
 mod source {
-    pub const URL: &str = "https://github.com/katyo/{package}/archive/{version}.tar.gz";
+    pub const URL: &str = "https://github.com/divideconcept/FluidLite/archive/fdd05bad03cdb24d1f78b5fe3453842890c1b0e8.tar.gz";
     pub const VERSION: &str = "1.2.1";
 }
 

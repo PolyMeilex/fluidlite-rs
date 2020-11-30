@@ -63,6 +63,6 @@ mod tests {
             ]
         };
 
-        assert_eq!(&version, &[1, 2, 0]);
+        assert_eq!(&version, &[1, 2, 1]);
     }
 }
