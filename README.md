@@ -1,5 +1,7 @@
 # Rust fluidlite bindings
 
+# This crate is a temporary solution, I will gradually fade out this crate in favor of my all safe rust [OxiSynth](https://github.com/PolyMeilex/OxiSynth)
+
 [![License: LGPL-2.1](https://img.shields.io/badge/License-LGPL--2.1-brightgreen.svg)](https://opensource.org/licenses/GPL-2.1)
 [![Crates.io Package](https://img.shields.io/crates/v/fluidlite.svg?style=popout)](https://crates.io/crates/fluidlite)
 [![Docs.rs API Docs](https://docs.rs/fluidlite/badge.svg)](https://docs.rs/fluidlite)
